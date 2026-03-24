@@ -77,5 +77,14 @@ Consistent practice > random grinding.
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
