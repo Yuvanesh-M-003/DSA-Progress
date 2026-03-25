@@ -95,4 +95,5 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
