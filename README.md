@@ -131,8 +131,18 @@ Consistent practice > random grinding.
 | ------- |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
