@@ -48,6 +48,7 @@ Consistent practice > random grinding.
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -115,6 +116,7 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Tree
 |  |
 | ------- |
