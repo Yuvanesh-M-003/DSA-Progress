@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        int count = 0,l=1;
+        int count = 0;
         for(int i=s.length()-1;i>=0;i--)
         {
             char ch = s.charAt(i);
@@ -8,7 +8,6 @@ class Solution {
             {
                 if(count == 0)
                 {
-                    l++;
                     continue; 
                 }
                 break;
