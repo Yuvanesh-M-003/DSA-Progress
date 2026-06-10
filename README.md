@@ -45,6 +45,7 @@ Consistent practice > random grinding.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ Consistent practice > random grinding.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
