@@ -146,6 +146,7 @@ Consistent practice > random grinding.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
