@@ -1,36 +1,27 @@
 class Solution {
-    public String convert(String s, int numRows) {
-        if (numRows == 1 || s.length() <= numRows) {
+    public String convert(String s, int n) {
+        if (n == 1 || n > s.length()) {
             return s;
         }
-
-        StringBuilder[] rows = new StringBuilder[numRows];
-
-        for (int i = 0; i < numRows; i++) {
-            rows[i] = new StringBuilder();
+        List<StringBuilder> list = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            list.add(new StringBuilder());
         }
-
         int index = 0;
-        boolean down = true;
-
+        int direction = 0;
         for (char c : s.toCharArray()) {
-            rows[index].append(c);
-
+            list.get(index).append(c);
             if (index == 0) {
-                down = true;
-            } else if (index == numRows - 1) {
-                down = false;
+                direction = 1;
+            } else if (index == n - 1) {
+                direction = -1;
             }
-
-            index += down ? 1 : -1;
+            index = index + direction;
         }
-
         StringBuilder result = new StringBuilder();
-
-        for (StringBuilder row : rows) {
-            result.append(row);
+        for (StringBuilder x : list) {
+            result.append(x);
         }
-
         return result.toString();
     }
 }
