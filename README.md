@@ -48,6 +48,7 @@ Consistent practice > random grinding.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,12 +65,14 @@ Consistent practice > random grinding.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
