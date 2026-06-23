@@ -110,6 +110,7 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
