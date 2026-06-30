@@ -84,6 +84,7 @@ Consistent practice > random grinding.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -114,6 +115,7 @@ Consistent practice > random grinding.
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -165,6 +167,7 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
