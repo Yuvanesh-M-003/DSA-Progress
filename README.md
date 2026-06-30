@@ -49,6 +49,7 @@ Consistent practice > random grinding.
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -101,6 +102,7 @@ Consistent practice > random grinding.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
