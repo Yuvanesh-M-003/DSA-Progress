@@ -45,6 +45,7 @@ Consistent practice > random grinding.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
@@ -161,6 +162,7 @@ Consistent practice > random grinding.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -219,6 +221,7 @@ Consistent practice > random grinding.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 ## Stack
