@@ -48,6 +48,7 @@ Consistent practice > random grinding.
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0056-merge-intervals) |
@@ -165,6 +166,7 @@ Consistent practice > random grinding.
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
@@ -188,6 +190,7 @@ Consistent practice > random grinding.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -228,5 +231,10 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
