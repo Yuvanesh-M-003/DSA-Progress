@@ -121,6 +121,7 @@ Consistent practice > random grinding.
 | [0007-reverse-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -237,4 +238,8 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
