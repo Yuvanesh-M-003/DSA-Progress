@@ -48,6 +48,7 @@ Consistent practice > random grinding.
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
@@ -89,6 +90,7 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
