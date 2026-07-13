@@ -217,11 +217,13 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
