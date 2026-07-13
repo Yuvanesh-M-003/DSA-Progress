@@ -172,6 +172,7 @@ Consistent practice > random grinding.
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -182,6 +183,7 @@ Consistent practice > random grinding.
 | [0058-length-of-last-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
