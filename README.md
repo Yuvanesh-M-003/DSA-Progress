@@ -93,6 +93,7 @@ Consistent practice > random grinding.
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
@@ -188,6 +189,7 @@ Consistent practice > random grinding.
 | [0020-valid-parentheses](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
