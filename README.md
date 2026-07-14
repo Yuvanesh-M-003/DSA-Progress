@@ -94,6 +94,7 @@ Consistent practice > random grinding.
 | [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -188,6 +189,7 @@ Consistent practice > random grinding.
 | [0058-length-of-last-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
