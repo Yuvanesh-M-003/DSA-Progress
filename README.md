@@ -96,6 +96,7 @@ Consistent practice > random grinding.
 | [0205-isomorphic-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
@@ -120,6 +121,7 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -192,6 +194,7 @@ Consistent practice > random grinding.
 | [0205-isomorphic-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
