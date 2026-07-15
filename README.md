@@ -136,6 +136,7 @@ Consistent practice > random grinding.
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Brainteaser
 |  |
@@ -260,4 +261,8 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0029-divide-two-integers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
