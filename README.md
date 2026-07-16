@@ -45,6 +45,7 @@ Consistent practice > random grinding.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
@@ -93,6 +94,7 @@ Consistent practice > random grinding.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
