@@ -72,6 +72,7 @@ Consistent practice > random grinding.
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Consistent practice > random grinding.
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Consistent practice > random grinding.
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -139,6 +142,7 @@ Consistent practice > random grinding.
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -185,6 +189,7 @@ Consistent practice > random grinding.
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -268,4 +273,5 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
