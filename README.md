@@ -169,6 +169,7 @@ Consistent practice > random grinding.
 | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -181,6 +182,7 @@ Consistent practice > random grinding.
 | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -241,10 +243,12 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
