@@ -72,6 +72,7 @@ Consistent practice > random grinding.
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
@@ -92,6 +93,7 @@ Consistent practice > random grinding.
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
+| [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
@@ -203,6 +205,7 @@ Consistent practice > random grinding.
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
