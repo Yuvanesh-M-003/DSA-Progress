@@ -57,6 +57,7 @@ Consistent practice > random grinding.
 | [0055-jump-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -280,11 +281,13 @@ Consistent practice > random grinding.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bit Manipulation
 |  |
 | ------- |
