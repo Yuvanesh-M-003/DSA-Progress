@@ -234,6 +234,7 @@ Consistent practice > random grinding.
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
