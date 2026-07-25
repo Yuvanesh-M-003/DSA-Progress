@@ -1,4 +1,4 @@
-// Last updated: 7/25/2026, 10:22:41 AM
+// Last updated: 7/25/2026, 5:54:59 PM
 1class Solution {
 2    public int maxProduct(int n) {
 3        int prod = 1;
