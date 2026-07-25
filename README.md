@@ -136,6 +136,7 @@ Consistent practice > random grinding.
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -160,6 +161,7 @@ Consistent practice > random grinding.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
