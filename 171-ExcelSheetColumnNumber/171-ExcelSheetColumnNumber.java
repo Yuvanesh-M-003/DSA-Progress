@@ -1,4 +1,4 @@
-// Last updated: 7/25/2026, 10:00:11 AM
+// Last updated: 7/25/2026, 10:00:24 AM
 1class Solution {
 2    public int titleToNumber(String s) {
 3        s = s.replaceAll("\\s","");
