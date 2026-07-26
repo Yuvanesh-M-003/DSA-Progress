@@ -69,6 +69,7 @@ Consistent practice > random grinding.
 | [0219-contains-duplicate-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -135,6 +136,7 @@ Consistent practice > random grinding.
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
@@ -157,6 +159,7 @@ Consistent practice > random grinding.
 | [0168-excel-sheet-column-title](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
