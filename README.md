@@ -72,6 +72,7 @@ Consistent practice > random grinding.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
@@ -137,6 +138,7 @@ Consistent practice > random grinding.
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
@@ -331,4 +333,8 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
