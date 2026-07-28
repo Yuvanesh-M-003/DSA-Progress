@@ -71,6 +71,7 @@ Consistent practice > random grinding.
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
