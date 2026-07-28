@@ -140,6 +140,7 @@ Consistent practice > random grinding.
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -252,6 +253,7 @@ Consistent practice > random grinding.
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
@@ -343,4 +345,8 @@ Consistent practice > random grinding.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
