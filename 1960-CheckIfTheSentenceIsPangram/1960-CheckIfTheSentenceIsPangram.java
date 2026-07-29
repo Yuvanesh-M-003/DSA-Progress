@@ -1,0 +1,16 @@
+// Last updated: 7/29/2026, 5:59:44 PM
+class Solution {
+    public boolean checkIfPangram(String sentence) {
+        if(sentence.length()<26)
+        {
+            return false;
+        }
+        HashMap <Character , Integer> map =  new HashMap<>();
+        for(int i=0;i<sentence.length();i++)
+        {
+            char ch = sentence.charAt(i);
+            map.put(ch , map.getOrDefault(ch , 0)+1);
+        }
+        return  map.size()==26;
+    }
+}
