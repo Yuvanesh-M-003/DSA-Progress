@@ -1,0 +1,23 @@
+// Last updated: 7/29/2026, 6:00:12 PM
+class Solution {
+    public String greatestLetter(String s) {
+        boolean[] lower = new boolean[26];
+        boolean[] upper = new boolean[26];
+
+        for (char c : s.toCharArray()) {
+            if (Character.isLowerCase(c)) {
+                lower[c - 'a'] = true;
+            } else {
+                upper[c - 'A'] = true;
+            }
+        }
+
+        for (int i = 25; i >= 0; i--) {
+            if (lower[i] && upper[i]) {
+                return String.valueOf((char) ('A' + i));
+            }
+        }
+
+        return "";
+    }
+}
