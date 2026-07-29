@@ -192,6 +192,7 @@ Consistent practice > random grinding.
 | [0577-employee-bonus](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0627-swap-sex-of-employees](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1068-product-sales-analysis-i) |
 ## Tree
 |  |
