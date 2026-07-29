@@ -1,0 +1,28 @@
+// Last updated: 7/29/2026, 5:59:20 PM
+class Solution {
+    public int[] applyOperations(int[] nums) {
+        int n = nums.length;
+
+        for(int i=0;i< n-1;i++)
+        {
+            if(nums[i] == nums[i+1] && nums[i] != 0)
+            {
+                nums[i] = nums[i]*2;
+                nums[i+1] = 0;
+            }
+        }
+        
+        int c = 0;
+        for(int i=0;i<n;i++)
+        {
+           if(nums[i] != 0)
+           {
+            int temp = nums[i];
+            nums[i] = nums[c];
+            nums[c] = temp;
+            c++;
+           }
+        }
+        return nums;
+    }
+}
