@@ -43,8 +43,8 @@ Consistent practice > random grinding.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0014-longest-common-prefix) |
@@ -86,8 +86,8 @@ Consistent practice > random grinding.
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
@@ -95,8 +95,8 @@ Consistent practice > random grinding.
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
@@ -108,8 +108,8 @@ Consistent practice > random grinding.
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
@@ -127,14 +127,14 @@ Consistent practice > random grinding.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
@@ -147,14 +147,14 @@ Consistent practice > random grinding.
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0009-palindrome-number) |
@@ -176,16 +176,16 @@ Consistent practice > random grinding.
 | [3765-complete-prime-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0292-nim-game) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0511-game-play-analysis-i) |
@@ -195,28 +195,28 @@ Consistent practice > random grinding.
 | [0627-swap-sex-of-employees](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1068-product-sales-analysis-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0027-remove-element) |
@@ -233,8 +233,8 @@ Consistent practice > random grinding.
 | [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
@@ -251,6 +251,7 @@ Consistent practice > random grinding.
 | [0290-word-pattern](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
@@ -262,96 +263,97 @@ Consistent practice > random grinding.
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0206-reverse-linked-list) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0135-candy) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0029-divide-two-integers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3765-complete-prime-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3765-complete-prime-number) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0014-longest-common-prefix) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
