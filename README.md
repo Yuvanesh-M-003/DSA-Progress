@@ -112,6 +112,7 @@ Consistent practice > random grinding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0041-first-missing-positive) |
@@ -237,6 +238,7 @@ Consistent practice > random grinding.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
@@ -279,6 +281,7 @@ Consistent practice > random grinding.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
