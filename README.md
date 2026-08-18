@@ -82,6 +82,7 @@ Consistent practice > random grinding.
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
@@ -128,6 +129,7 @@ Consistent practice > random grinding.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
