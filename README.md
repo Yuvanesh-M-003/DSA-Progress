@@ -80,6 +80,7 @@ Consistent practice > random grinding.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -104,6 +105,7 @@ Consistent practice > random grinding.
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3612-process-string-with-special-operations-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
