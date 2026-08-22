@@ -178,6 +178,7 @@ Consistent practice > random grinding.
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3765-complete-prime-number) |
