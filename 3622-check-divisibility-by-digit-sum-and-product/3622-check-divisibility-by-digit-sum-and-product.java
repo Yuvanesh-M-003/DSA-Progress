@@ -1,0 +1,18 @@
+class Solution {
+    public boolean checkDivisibility(int n) {
+        int temp = n;
+        int sum  = 0 , prod = 1;
+        while(temp > 0)
+        {
+            int dig  = temp%10;
+            sum += dig;
+            prod *= dig;
+            temp /= 10;
+        }
+        if(n % (sum+prod) == 0)
+        {
+            return true;
+        }
+        return false;
+    }
+}
