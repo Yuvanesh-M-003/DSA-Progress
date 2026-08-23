@@ -194,6 +194,7 @@ Consistent practice > random grinding.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0176-second-highest-salary/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0196-delete-duplicate-emails) |
