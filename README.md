@@ -205,6 +205,7 @@ Consistent practice > random grinding.
 | [0595-big-countries](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0595-big-countries/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
