@@ -85,6 +85,7 @@ Consistent practice > random grinding.
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,6 +133,7 @@ Consistent practice > random grinding.
 | [2965-find-missing-and-repeated-values](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
