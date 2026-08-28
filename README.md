@@ -210,6 +210,7 @@ Consistent practice > random grinding.
 | [0620-not-boring-movies](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
