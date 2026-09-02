@@ -174,6 +174,7 @@ Consistent practice > random grinding.
 | [0012-integer-to-roman](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0171-excel-sheet-column-number) |
@@ -341,6 +342,7 @@ Consistent practice > random grinding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0206-reverse-linked-list) |
 ## Greedy
 | Problem Name | Difficulty |
