@@ -289,6 +289,7 @@ Consistent practice > random grinding.
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -359,6 +360,7 @@ Consistent practice > random grinding.
 | [0042-trapping-rain-water](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,4 +404,8 @@ Consistent practice > random grinding.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 <!---LeetCode Topics End-->
