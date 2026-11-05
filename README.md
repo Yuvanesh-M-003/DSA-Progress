@@ -74,6 +74,7 @@ Consistent practice > random grinding.
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1260-shift-2d-grid](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -153,6 +154,7 @@ Consistent practice > random grinding.
 | [0215-kth-largest-element-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -240,6 +242,7 @@ Consistent practice > random grinding.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +266,7 @@ Consistent practice > random grinding.
 | [0283-move-zeroes](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/0541-reverse-string-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/2460-apply-operations-to-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yuvanesh-M-003/DSA-Progress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
